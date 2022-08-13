@@ -3,7 +3,11 @@
 
 1. OBJETIVOS
 
+Realizar mapas conceptuales de los capituolos 17 y 18 de el libro de principios de circuitos electricos de Floyd, mediante una lectura comprensiva de los diversos temas,para obtener conocimiento que me ayude a realizar los ejercicios planteados.
 
+* Desarrollar un resumen, correspondiente a cada capítulo, mediante mapas conceptuales o diagramas, con el fin de facilitar el entendimiento teórico de los temas a tratar en cada uno de ellos.
+* Resolver los ejercicios impares de cada uno de los capítulos, para poner en práctica los conocimientos adquiridos.
+* Analizar la operación de los diversos filtros pasivos existentes.
 
 2. MARCO TEÓRICO (RESUMEN)
 
@@ -39,7 +43,7 @@
 
 **PARTE 3: CIRCUITOS EN SERIE-PARALELO.**
 
-**SECCIÓN 17–7:Análisis de circuitos RLC en serie-paralelo
+**SECCIÓN 17–7:Análisis de circuitos RLC en serie-paralelo**
 
 ![image](https://user-images.githubusercontent.com/105570939/184457495-7b0ff5b5-27d3-426e-b086-506987c12076.png)
 
@@ -84,11 +88,13 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 5. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+* Los circuitos que tienen tanto inductancia como capacitancia exhiben la propiedad de resonancia, la cual es importante en muchos tipos de aplicaciones. La resonancia es la base de la selectividad de frecuencia en sistemas de comunicaciones.
+* A través de la resolución de los presentes ejercicios se llegó a la conclusión que los filtros de pasabajas permiten que fluya las señales de baja frecuencia a diferencia de los filtros de pasaaltas que permiten que fluyan las señales de alta frecuencia.
+* En los distintos casos cuando se habla de filtros pasabajas, pasaaltas, pasabanda y rechazabanda, dispuestros en circuitos R, L y C se logra obtener diversos datos mediante formulas matematicas, permitiendo asi mediante un diagrama de bonde observar como la frecuencia crece, y asi analizar los desibeles con respecto a la frecuencia.
 
 6. BIBLIOGRAFÍA
 
-Emplear normas APA.
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
 RUBRICA
 
