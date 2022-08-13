@@ -3,35 +3,73 @@
 
 1. OBJETIVOS
 
-Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
-El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación. 
 
-Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados. 
-
-Los objetivos de investigación deben cumplir ciertas características: 
-* Deben ser concretos, cuantificables, verificables 
-* Deben estar redactados utilizando verbos en infinitivo 
-* Deben ser alcanzables por el investigador. 
-* Tienen que estar ligados con el tiempo. 
-
-
-Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos. 
-
-Al finalizar la investigación, los objetivos han de ser identificables con los resultados; es decir, toda la investigación deberá estar respondiendo a los objetivos propuestos. 
-
-Considerar la Taxonomía de Bloom
 
 2. MARCO TEÓRICO (RESUMEN)
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+**CAPITULO 17: CIRCUITOS RLC Y RESONANCIA.**
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
+**PARTE 1: CIRCUITOS EN SERIE.**
 
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
+**SECCIÓN 17-1: Impedancia de circuitos RLC en serie.**
+
+![image](https://user-images.githubusercontent.com/105570939/184456839-e05294c3-4a3f-45bf-b69d-b0b02d272d26.png)
+
+**SECCIÓN 17–2: Análisis de circuitos RLC en serie.**
+
+![image](https://user-images.githubusercontent.com/105570939/184456888-af77e168-9e13-455c-b8ef-e7865d9cda92.png)
+
+**SECCIÓN 17–3: Resonancia en serie.**
+
+![image](https://user-images.githubusercontent.com/105570939/184456926-4d0a1de1-0405-4023-b040-176ec3e66b0b.png)
+
+**PARTE 2: CIRCUITOS EN PARALELO.**
+
+**SECCIÓN 17–4: Impedancia de circuitos RLC en paralelo.**
+
+![image](https://user-images.githubusercontent.com/105570939/184457274-b9b96dfe-5a38-4404-9fb8-83a4bc036809.png)
+
+**SECCIÓN 17–5: Análisis de circuitos RLC en paralelo.**
+
+![image](https://user-images.githubusercontent.com/105570939/184457290-9097987a-0344-4378-a4aa-b82047450327.png)
+
+**SECCIÓN 17–6: Resonancia en paralelo.**
+
+![image](https://user-images.githubusercontent.com/105570939/184457461-7e062dfc-b671-469a-a8d5-f8df4d709ee6.png)
+
+**PARTE 3: CIRCUITOS EN SERIE-PARALELO.**
+
+**SECCIÓN 17–7:Análisis de circuitos RLC en serie-paralelo
+
+![image](https://user-images.githubusercontent.com/105570939/184457495-7b0ff5b5-27d3-426e-b086-506987c12076.png)
+
+**PARTE 4: TEMAS ESPECIALES**
+
+**SECCIÓN 17–8: Ancho de banda de circuitos resonantes.**
+
+![image](https://user-images.githubusercontent.com/105570939/184457917-2dd0c3a0-cdc8-423e-9043-9c37ce73934a.png)
+
+**SECCIÓN 17–9: Aplicaciones-Una aplicación de circuito.**
+
+![image](https://user-images.githubusercontent.com/105570939/184457943-bf72bd7e-387f-4ac6-8077-b84467a5e1d9.png)
+
+**CAPITULO 18: FILTROS PASIVOS.**
+
+**SECCIÓN 18–1: Filtros pasabajas.**
+
+![image](https://user-images.githubusercontent.com/105570939/184458350-1776b33a-d151-4adc-b274-01b572b77243.png)
+
+**SECCIÓN 18–2: Filtros pasaaltas.**
+
+![image](https://user-images.githubusercontent.com/105570939/184459130-e2106413-d5ff-4b35-b2bd-b9886d8f6512.png)
+
+**SECCIÓN 18–3: Fitros pasabanda.**
+
+![image](https://user-images.githubusercontent.com/105570939/184459141-28edab79-eb6b-4de4-936e-0f63fae91fe9.png)
+
+**SECCIÓN 18–4: Filtros rechazabanda-Una aplicación de circuito.**
+
+![image](https://user-images.githubusercontent.com/105570939/184459348-f111d026-424e-40b4-8893-1e31114d1d19.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
