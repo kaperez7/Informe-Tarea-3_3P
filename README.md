@@ -77,32 +77,105 @@ Realizar mapas conceptuales de los capituolos 17 y 18 de el libro de principios 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-Determine la impedancia en la figura 17-59 y exprésela en forma polar.
-image
+**CAPITULO 17: CIRCUITOS RLC Y RESONANCIA**
 
-image
+**PARTE 1: CIRCUITOS EN SERIE**
 
-Para el circuito de la figura 17-59, determine la reactancia neta que hará que la magnitud de la impedancia sea igual a 100 Ω.
-image
+**SECCIÓN 17–1 Impedancia de circuitos RLC en serie**
 
-image
+**2. Determine la impedancia en la figura 17-59 y exprésela en forma polar.**
 
-Trace el diagrama fasorial de voltaje para el circuito de la figura 17-59.
-image
+![image](https://user-images.githubusercontent.com/105570939/187310251-eb29189e-9329-4d6a-ae55-4ec4d67881b6.png)
 
-image
+![image](https://user-images.githubusercontent.com/105570939/187310283-bb9d1a96-55af-46c6-a9e5-45508582a1bc.png)
 
-Diagrama fasorial:
+**4. Para el circuito de la figura 17-59, determine la reactancia neta que hará que la magnitud de la impedancia sea igual a 100 Ohmios.**
 
-image
+![image](https://user-images.githubusercontent.com/105570939/187310251-eb29189e-9329-4d6a-ae55-4ec4d67881b6.png)
 
-Para el circuito de la figura 17-59, ¿es la frecuencia resonante más alta o más baja que el valor indicado por los valores de reactancia?
-image
+**SECCIÓN 17–2 Análisis de circuitos RLC en serie**
 
-R: Como XC < XL, fr es menor que la frecuencia indicada.
+**6. Trace el diagrama fasorial de voltaje para el circuito de la figura 17-59.**
 
-En la figura 17-61, determine XL, XC, Z e I a la frecuencia resonante.
-image
+
+**SECCIÓN 17–3 Resonancia en serie**
+
+**8. Para el circuito de la figura 17-59, ¿es la frecuencia resonante más alta o más baja que el valor indicado por los valores de reactancia?**
+
+
+**10. En la figura 17-61, determine XL, XC, Z e I a la frecuencia resonante.**
+
+
+**12. Para el circuito RLC de la figura 17-62, determine la frecuencia resonante.**
+
+
+**14. En la figura 17-62, determine el ángulo de fase entre el voltaje aplicado y la corriente a las frecuencias críticas. ¿Cuál es el ángulo de fase en condición de resonancia?**
+
+
+**PARTE 2: CIRCUITOS EN PARALELO**
+
+**SECCIÓN 17–4 Impedancia de circuitos RLC en paralelo**
+
+**16. Exprese en forma polar la impedancia del circuito de la figura 17-63.**
+
+
+**18. ¿A qué frecuencia el circuito de la figura 17-63 cambia su característica reactiva (de inductiva a capacitiva o viceversa)?**
+
+
+**SECCIÓN 17–5 Análisis de circuitos RLC en paralelo**
+
+**20. Determine la impedancia total del circuito de la figura 17-63 a 50 kHz.**
+
+
+
+**SECCIÓN 17–6 Resonancia en paralelo**
+
+**22. ¿Cuál es la impedancia de un circuito resonante ideal dispuesto en paralelo (sin resistencia en las ramas)?**
+
+
+
+**24. ¿Cuánta corriente se extrae de la fuente de la figura 17-64 en condición de resonancia? ¿Cuáles son las corrientes inductiva y capacitiva en la frecuencia resonante?**
+
+
+**PARTE 3: CIRCUITOS EN SERIE-PARALELO**
+
+**SECCIÓN 17–7 ANÁLISIS DE CIRCUITOS RLC EN SERIE-PARALELO**
+
+**26. Encuentre la impedancia total para cada circuito de la figura 17-65.**
+
+
+**28. Determine el voltaje entre las terminales de cada elemento mostrado en la figura 17-66, y expréselo en forma polar.**
+
+
+**30. ¿Cuál es la corriente a través de R2 en la figura 17-67?**
+
+
+**32. Determine la resistencia y la reactancia totales en la figura 17-68.**
+
+
+**34. Determine si existe un valor de C que hará Vab  0 V en la figura 17-69. Si no lo hay, explique la razón**
+
+
+**36. ¿Cuántas frecuencias resonantes hay en el circuito de la figura 17-70 ¿Por qué?**
+
+
+
+**38. Diseñe un red resonante en paralelo usando una sola bobina y capacitores seleccionables mediante un interruptor para producir las siguientes frecuencias resonantes: 8 MHz, 9 MHz, 10 MHz, y 11 MHz. Suponga una bobina de 10 mH con resistencia de devanado de 5 Æ.**
+
+
+
+**PARTE 4: TEMAS ESPECIALES**
+
+**SECCIÓN 17–8 Ancho de banda de circuitos resonantes**
+
+**40. Si la frecuencia crítica baja es de 2400 Hz y la frecuencia crítica alta es de 2800 Hz, ¿cuál es el ancho de banda? ¿Cuál es la frecuencia resonante?**
+
+
+**42. En un circuito tanque, ¿qué valores de L y C deberán utilizarse para obtener una frecuencia resonante
+de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 Æ.**
+
+
+
 
 4. VIDEO
 
