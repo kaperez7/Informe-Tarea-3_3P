@@ -77,8 +77,32 @@ Realizar mapas conceptuales de los capituolos 17 y 18 de el libro de principios 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
-La solución deb estar en esta sección, no como un archivo anexo.
+Determine la impedancia en la figura 17-59 y exprésela en forma polar.
+image
+
+image
+
+Para el circuito de la figura 17-59, determine la reactancia neta que hará que la magnitud de la impedancia sea igual a 100 Ω.
+image
+
+image
+
+Trace el diagrama fasorial de voltaje para el circuito de la figura 17-59.
+image
+
+image
+
+Diagrama fasorial:
+
+image
+
+Para el circuito de la figura 17-59, ¿es la frecuencia resonante más alta o más baja que el valor indicado por los valores de reactancia?
+image
+
+R: Como XC < XL, fr es menor que la frecuencia indicada.
+
+En la figura 17-61, determine XL, XC, Z e I a la frecuencia resonante.
+image
 
 4. VIDEO
 
