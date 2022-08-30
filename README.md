@@ -315,9 +315,7 @@ No es posible que Vab sea 0 V porque la rama LC no tiene resistencia; por lo tan
 
 4. VIDEO
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe explicar 4 ejercicios o problemas.
-
+https://youtu.be/dXj8B-0eNK4
 
 5. CONCLUSIONES
 
